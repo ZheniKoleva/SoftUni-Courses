@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_FootballBetting", "P03_FootballBetting\P03_FootballBetting.csproj", "{E3596607-06BD-4702-892A-39FC9C4ACACE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AB992F53-C9AA-48D3-AEE6-A36B21EC8DE4} = {AB992F53-C9AA-48D3-AEE6-A36B21EC8DE4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_FootballBetting.Data", "P03_FootballBetting.Data\P03_FootballBetting.Data.csproj", "{AB992F53-C9AA-48D3-AEE6-A36B21EC8DE4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{08A24AEA-D88C-4EAB-A1BC-340D8DDE7461} = {08A24AEA-D88C-4EAB-A1BC-340D8DDE7461}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_FootballBetting.Data.Models", "P03_FootballBetting.Data.Models\P03_FootballBetting.Data.Models.csproj", "{08A24AEA-D88C-4EAB-A1BC-340D8DDE7461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3596607-06BD-4702-892A-39FC9C4ACACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3596607-06BD-4702-892A-39FC9C4ACACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3596607-06BD-4702-892A-39FC9C4ACACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3596607-06BD-4702-892A-39FC9C4ACACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB992F53-C9AA-48D3-AEE6-A36B21EC8DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB992F53-C9AA-48D3-AEE6-A36B21EC8DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB992F53-C9AA-48D3-AEE6-A36B21EC8DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB992F53-C9AA-48D3-AEE6-A36B21EC8DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A24AEA-D88C-4EAB-A1BC-340D8DDE7461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A24AEA-D88C-4EAB-A1BC-340D8DDE7461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A24AEA-D88C-4EAB-A1BC-340D8DDE7461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A24AEA-D88C-4EAB-A1BC-340D8DDE7461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A8D78E-0B93-43B9-B601-AE20DA0AD87E}
+	EndGlobalSection
+EndGlobal
