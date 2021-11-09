@@ -26,19 +26,21 @@
 
         public abstract string ProduseSound();
 
-        public virtual void Eat(IFood food)        
+        public void Eat(IFood food)
         {
-            if (!IsFoodEaten(food))
-            {
-                throw new ArgumentException($"{this.GetType().Name} does not eat {food.GetType().Name}!");
-            }
+            ValidateFood(food);
 
             FoodEaten += food.Quantity;
             Weight += WeightIncreasment * food.Quantity;
         }
 
-        public virtual bool IsFoodEaten(IFood food)
-            => FoodsList.Contains(food.GetType());
+        private void ValidateFood(IFood food)
+        {
+            if (FoodsList.Contains(food.GetType()))
+            {
+                throw new ArgumentException($"{this.GetType().Name} does not eat {food.GetType().Name}!");
+            }
+        }       
     }  
    
 }
