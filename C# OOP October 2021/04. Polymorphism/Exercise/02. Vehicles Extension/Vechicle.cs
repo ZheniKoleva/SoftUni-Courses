@@ -21,8 +21,7 @@ namespace _02.VehiclesExtension
             {
                 if (value > this.TankCapacity)
                 {
-                    this.fuelQuantity = 0;
-                    return;
+                    value = 0;                   
                 }
 
                 this.fuelQuantity = value;   
