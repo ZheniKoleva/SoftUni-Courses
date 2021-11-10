@@ -3,7 +3,7 @@ function songOfWheel(input) {
 
     let result = "";
     let counter = 0;
-    let forthRassword = "";
+    let forthPassword = "";
     let isFound = false;
     let hasForthPassword = false;
 
@@ -22,7 +22,7 @@ function songOfWheel(input) {
 
                         if (counter == 4) {
                             hasForthPassword = true;
-                            forthRassword += (`${a}${b}${c}${d}`);
+                            forthPassword = (`${a}${b}${c}${d}`);
                         }
 
                     }
@@ -36,13 +36,7 @@ function songOfWheel(input) {
 
     if (isFound) {
         console.log(result);
-
-        if (hasForthPassword) {
-            console.log(`Password: ${forthRassword}`);
-
-        } else {
-            console.log("No!");
-        }
+        console.log(hasForthPassword ? `Password: ${forthPassword}` : "No!");
 
     } else {
         console.log("No!");
