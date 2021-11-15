@@ -19,28 +19,29 @@ namespace ProductShop
     {
         public static void Main(string[] args)
         {   
-            ProductShopContext context = new ProductShopContext();            
+            ProductShopContext context = new ProductShopContext();
+            context.Database.EnsureDeleted();
             context.Database.EnsureCreated();
 
             Console.WriteLine("Database created successfully!");
 
             //Task 01.Import Users
-            string usersData = File.ReadAllText("../../../Datasets/users.json");
+            string usersData = File.ReadAllText("Datasets/users.json");
             string importedUsers = ImportUsers(context, usersData);
             Console.WriteLine(importedUsers);
 
             //Task 02.Import Products
-            string productsData = File.ReadAllText("../../../Datasets/products.json");
+            string productsData = File.ReadAllText("Datasets/products.json");
             string importedProducts = ImportProducts(context, productsData);
             Console.WriteLine(importedProducts);
 
             //Task 03.Import Categories
-            string categoriesData = File.ReadAllText("../../../Datasets/categories.json");
+            string categoriesData = File.ReadAllText("Datasets/categories.json");
             string importedCategories = ImportCategories(context, categoriesData);
             Console.WriteLine(importedCategories);
 
             //Task 04.Import Categories and Products
-            string categoriesAndProductsData = File.ReadAllText("../../../Datasets/categories-products.json");
+            string categoriesAndProductsData = File.ReadAllText("Datasets/categories-products.json");
             string importedData = ImportCategoryProducts(context, categoriesAndProductsData);
             Console.WriteLine(importedData);
 
