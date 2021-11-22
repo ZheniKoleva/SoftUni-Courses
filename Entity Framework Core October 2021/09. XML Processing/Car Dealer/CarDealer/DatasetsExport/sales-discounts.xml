@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<sales>
+  <sale>
+    <car make="BMW" model="E67" travelled-distance="476830509" />
+    <discount>15.00</discount>
+    <customer-name>Daniele Zarate</customer-name>
+    <price>2014.83</price>
+    <price-with-discount>1712.605500</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" travelled-distance="277250812" />
+    <discount>20.00</discount>
+    <customer-name>Faustina Burgher</customer-name>
+    <price>1544.83</price>
+    <price-with-discount>1235.864000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Insignia" travelled-distance="168539389" />
+    <discount>15.00</discount>
+    <customer-name>Marcelle Griego</customer-name>
+    <price>619.66</price>
+    <price-with-discount>526.711000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Vectra" travelled-distance="433351992" />
+    <discount>30.00</discount>
+    <customer-name>Audrea Cardinal</customer-name>
+    <price>1223.31</price>
+    <price-with-discount>856.317000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="F04" travelled-distance="443756363" />
+    <discount>50.00</discount>
+    <customer-name>Donnetta Soliz</customer-name>
+    <price>1655.57</price>
+    <price-with-discount>827.785000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="F25" travelled-distance="476132712" />
+    <discount>0.00</discount>
+    <customer-name>Lino Subia</customer-name>
+    <price>489.20</price>
+    <price-with-discount>489.200000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Astra" travelled-distance="516628215" />
+    <discount>10.00</discount>
+    <customer-name>Ann Mcenaney</customer-name>
+    <price>1284.32</price>
+    <price-with-discount>1155.888000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" travelled-distance="111313670" />
+    <discount>0.00</discount>
+    <customer-name>Zada Attwood</customer-name>
+    <price>1197.55</price>
+    <price-with-discount>1197.550000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="M5 F10" travelled-distance="435603343" />
+    <discount>30.00</discount>
+    <customer-name>Hai Everton</customer-name>
+    <price>2544.67</price>
+    <price-with-discount>1781.269000</price-with-discount>
+  </sale>
+</sales>
