@@ -56,10 +56,7 @@
                 .ForMember(ee => ee.Username, opt => opt.MapFrom(e => e.Username))
                 .ForMember(ee => ee.TasksToExport,
                                 opt => opt.MapFrom(e => e.EmployeesTasks
-                                                        .Select(et => et.Task)                                                        
-                                                        .OrderByDescending(t => t.DueDate)
-                                                        .ThenBy(t => t.Name)
-                                                        .Select(t => t)
+                                                        .Select(et => et.Task) 
                                                         .ToArray()));
 
 
@@ -73,8 +70,9 @@
                 .ForMember(ep => ep.Name, opt => opt.MapFrom(p => p.Name))
                 .ForMember(ep => ep.HasEndDate, opt => opt.MapFrom(p => p.DueDate.HasValue ? "Yes" : "No"))
                 .ForMember(ep => ep.Tasks, opt => opt.MapFrom(p => p.Tasks
+                                                                    .ToArray()
                                                                     .OrderBy(t => t.Name)
-                                                                    .Select(t => t)));
+                                                                    .ToArray()));
 
         }
     }
