@@ -37,7 +37,7 @@
 
             ImportBookDTO[] extractedBooksData = (ImportBookDTO[])serializer.Deserialize(reader);
 
-            ICollection<Book> booksToImport = new HashSet<Book>();
+            HashSet<Book> booksToImport = new HashSet<Book>();
 
             foreach (var book in extractedBooksData)
             {
