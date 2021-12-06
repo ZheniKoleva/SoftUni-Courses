@@ -135,6 +135,8 @@
 
             HashSet<Theatre> theatersToImport = new HashSet<Theatre>();
 
+            HashSet<int> existingPlays = context.Plays.Select(x => x.Id).ToHashSet();
+
             foreach (var theatreInfo in extractedData)
             {
                 if (!IsValid(theatreInfo))
@@ -154,7 +156,7 @@
 
                 foreach (var ticket in theatreInfo.Tickets)
                 {
-                    if (!IsValid(ticket))
+                    if (!IsValid(ticket) || !existingPlays.Contains(ticket.PlayId))
                     {
                         sb.AppendLine(ErrorMessage);
                         continue;
