@@ -50,7 +50,7 @@ namespace AquaShop.Models.Fish
             }
         }
 
-        public virtual int Size 
+        public int Size 
         { 
             get => this.size;
             protected set => this.size = value;

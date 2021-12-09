@@ -12,12 +12,6 @@
             this.Size = Initial_Size;
         }
 
-        public override int Size 
-        { 
-            get => base.Size; 
-            protected set => base.Size = value; 
-        }
-
         public override void Eat() => this.Size += Increase_Size;
        
     }
