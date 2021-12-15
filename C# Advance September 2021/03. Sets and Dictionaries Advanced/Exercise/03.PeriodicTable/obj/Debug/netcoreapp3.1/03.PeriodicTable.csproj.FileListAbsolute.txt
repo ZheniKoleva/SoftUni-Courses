@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.genruntimeconfig.cache

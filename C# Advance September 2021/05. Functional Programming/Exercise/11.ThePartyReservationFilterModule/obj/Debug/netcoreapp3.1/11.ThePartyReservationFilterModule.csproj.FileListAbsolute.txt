@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.exe
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.deps.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.runtimeconfig.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp3.1\11.ThePartyReservationFilterModule.genruntimeconfig.cache

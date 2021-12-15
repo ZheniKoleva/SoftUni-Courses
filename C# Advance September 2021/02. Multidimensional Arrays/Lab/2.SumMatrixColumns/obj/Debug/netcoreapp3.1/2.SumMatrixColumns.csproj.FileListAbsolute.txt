@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.genruntimeconfig.cache

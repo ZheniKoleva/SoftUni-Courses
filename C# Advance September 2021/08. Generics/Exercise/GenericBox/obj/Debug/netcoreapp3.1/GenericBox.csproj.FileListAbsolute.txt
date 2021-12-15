@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.exe
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.deps.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.dll
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.pdb
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.dll
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.pdb
+C:\Users\Zheni\Desktop\GenericsExercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.genruntimeconfig.cache

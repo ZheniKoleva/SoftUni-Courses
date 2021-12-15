@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\bin\Debug\netcoreapp3.1\06.Wardrobe3.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\bin\Debug\netcoreapp3.1\06.Wardrobe3.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\bin\Debug\netcoreapp3.1\06.Wardrobe3.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\bin\Debug\netcoreapp3.1\06.Wardrobe3.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\bin\Debug\netcoreapp3.1\06.Wardrobe3.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\bin\Debug\netcoreapp3.1\06.Wardrobe3.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\06.Wardrobe3\obj\Debug\netcoreapp3.1\06.Wardrobe3.genruntimeconfig.cache

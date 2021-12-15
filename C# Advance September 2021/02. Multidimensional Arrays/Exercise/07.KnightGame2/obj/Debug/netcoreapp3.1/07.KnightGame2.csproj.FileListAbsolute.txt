@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\bin\Debug\netcoreapp3.1\07.KnightGame2.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\bin\Debug\netcoreapp3.1\07.KnightGame2.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\bin\Debug\netcoreapp3.1\07.KnightGame2.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\bin\Debug\netcoreapp3.1\07.KnightGame2.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\bin\Debug\netcoreapp3.1\07.KnightGame2.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\bin\Debug\netcoreapp3.1\07.KnightGame2.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\obj\Debug\netcoreapp3.1\07.KnightGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\obj\Debug\netcoreapp3.1\07.KnightGame2.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\obj\Debug\netcoreapp3.1\07.KnightGame2.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\obj\Debug\netcoreapp3.1\07.KnightGame2.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\obj\Debug\netcoreapp3.1\07.KnightGame2.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\obj\Debug\netcoreapp3.1\07.KnightGame2.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\07.KnightGame2\obj\Debug\netcoreapp3.1\07.KnightGame2.genruntimeconfig.cache

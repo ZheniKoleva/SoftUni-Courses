@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.genruntimeconfig.cache

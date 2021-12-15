@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.exe
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.deps.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.runtimeconfig.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.genruntimeconfig.cache

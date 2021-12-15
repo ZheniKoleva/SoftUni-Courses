@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.exe
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.deps.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.genruntimeconfig.cache

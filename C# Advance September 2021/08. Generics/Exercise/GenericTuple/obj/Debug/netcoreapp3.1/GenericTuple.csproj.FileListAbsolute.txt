@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.exe
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.deps.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.runtimeconfig.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.dll
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\bin\Debug\netcoreapp3.1\GenericTuple.pdb
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.dll
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.pdb
+C:\Users\Zheni\Desktop\GenericsExercise\GenericTuple\obj\Debug\netcoreapp3.1\GenericTuple.genruntimeconfig.cache

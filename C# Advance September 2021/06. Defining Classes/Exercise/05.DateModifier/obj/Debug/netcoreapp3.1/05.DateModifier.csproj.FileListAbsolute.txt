@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.exe
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.deps.json
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.json
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.dll
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.pdb
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.dll
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.pdb
+C:\Users\Zheni\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.genruntimeconfig.cache

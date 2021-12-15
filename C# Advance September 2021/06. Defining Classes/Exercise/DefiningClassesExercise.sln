@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DateModifier", "05.DateModifier\05.DateModifier.csproj", "{AAFEBD8F-04C2-4FA4-A8DD-6DBFBA1D3D0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.SpeedRacing", "06.SpeedRacing\06.SpeedRacing.csproj", "{14FEC961-64AC-4C9D-AC42-BBD1F215A046}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.RawData", "07.RawData\07.RawData.csproj", "{AD395A89-4846-4D4B-B498-026A79117908}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CarSalesman", "08.CarSalesman\08.CarSalesman.csproj", "{786208AF-5F87-4A01-873B-1DA42C77CA02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PokemonTrainer", "09.PokemonTrainer\09.PokemonTrainer.csproj", "{31D2913D-0904-420D-8678-BE5C67429924}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CarSalesman2", "08.CarSalesman2\08.CarSalesman2.csproj", "{4DE744E0-787F-48BB-9304-6F55357E5E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{3B3FFF56-31D1-4556-8DBF-8471CA95ADA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFEBD8F-04C2-4FA4-A8DD-6DBFBA1D3D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFEBD8F-04C2-4FA4-A8DD-6DBFBA1D3D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFEBD8F-04C2-4FA4-A8DD-6DBFBA1D3D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFEBD8F-04C2-4FA4-A8DD-6DBFBA1D3D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FEC961-64AC-4C9D-AC42-BBD1F215A046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FEC961-64AC-4C9D-AC42-BBD1F215A046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FEC961-64AC-4C9D-AC42-BBD1F215A046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FEC961-64AC-4C9D-AC42-BBD1F215A046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD395A89-4846-4D4B-B498-026A79117908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD395A89-4846-4D4B-B498-026A79117908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD395A89-4846-4D4B-B498-026A79117908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD395A89-4846-4D4B-B498-026A79117908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786208AF-5F87-4A01-873B-1DA42C77CA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786208AF-5F87-4A01-873B-1DA42C77CA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786208AF-5F87-4A01-873B-1DA42C77CA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786208AF-5F87-4A01-873B-1DA42C77CA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D2913D-0904-420D-8678-BE5C67429924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D2913D-0904-420D-8678-BE5C67429924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D2913D-0904-420D-8678-BE5C67429924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D2913D-0904-420D-8678-BE5C67429924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE744E0-787F-48BB-9304-6F55357E5E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE744E0-787F-48BB-9304-6F55357E5E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE744E0-787F-48BB-9304-6F55357E5E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE744E0-787F-48BB-9304-6F55357E5E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3FFF56-31D1-4556-8DBF-8471CA95ADA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3FFF56-31D1-4556-8DBF-8471CA95ADA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3FFF56-31D1-4556-8DBF-8471CA95ADA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3FFF56-31D1-4556-8DBF-8471CA95ADA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01D6947A-8FA0-40B2-A57B-48FCFA432AF6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.exe
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.deps.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.genruntimeconfig.cache

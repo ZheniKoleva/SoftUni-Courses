@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry.genruntimeconfig.cache

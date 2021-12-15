@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Zheni\Desktop\Retake Exam - 19 August 2020\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

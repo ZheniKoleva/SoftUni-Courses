@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.exe
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.deps.json
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.json
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\Zheni\Desktop\Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.genruntimeconfig.cache

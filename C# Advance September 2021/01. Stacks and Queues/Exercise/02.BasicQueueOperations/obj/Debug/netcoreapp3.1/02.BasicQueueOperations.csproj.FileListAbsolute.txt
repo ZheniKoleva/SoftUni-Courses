@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.exe
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.deps.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.genruntimeconfig.cache

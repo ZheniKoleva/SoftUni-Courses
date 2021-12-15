@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\bin\Debug\netcoreapp3.1\07.TheV-Vlogger2.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\bin\Debug\netcoreapp3.1\07.TheV-Vlogger2.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\bin\Debug\netcoreapp3.1\07.TheV-Vlogger2.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\bin\Debug\netcoreapp3.1\07.TheV-Vlogger2.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\bin\Debug\netcoreapp3.1\07.TheV-Vlogger2.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\bin\Debug\netcoreapp3.1\07.TheV-Vlogger2.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\obj\Debug\netcoreapp3.1\07.TheV-Vlogger2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\obj\Debug\netcoreapp3.1\07.TheV-Vlogger2.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\obj\Debug\netcoreapp3.1\07.TheV-Vlogger2.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\obj\Debug\netcoreapp3.1\07.TheV-Vlogger2.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\obj\Debug\netcoreapp3.1\07.TheV-Vlogger2.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\obj\Debug\netcoreapp3.1\07.TheV-Vlogger2.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\07.TheV-Vlogger2\obj\Debug\netcoreapp3.1\07.TheV-Vlogger2.genruntimeconfig.cache

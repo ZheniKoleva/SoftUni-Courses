@@ -1,0 +1,16 @@
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\03.WordCount2.exe
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\words.txt
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\03.WordCount2.deps.json
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\03.WordCount2.runtimeconfig.json
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\03.WordCount2.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\03.WordCount2.dll
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\bin\Debug\netcoreapp3.1\03.WordCount2.pdb
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.dll
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.pdb
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesLab\03.WordCount2\obj\Debug\netcoreapp3.1\03.WordCount2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.exe
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.deps.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.runtimeconfig.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.genruntimeconfig.cache

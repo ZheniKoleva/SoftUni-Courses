@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.exe
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.deps.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.runtimeconfig.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.genruntimeconfig.cache

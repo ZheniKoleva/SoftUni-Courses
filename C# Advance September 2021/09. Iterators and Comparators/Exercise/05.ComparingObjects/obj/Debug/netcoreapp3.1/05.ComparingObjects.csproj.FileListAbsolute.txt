@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\Zheni\Desktop\IteratorsAndComparatorsExercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache

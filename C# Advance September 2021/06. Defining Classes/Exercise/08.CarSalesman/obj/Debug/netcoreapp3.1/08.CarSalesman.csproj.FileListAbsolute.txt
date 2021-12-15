@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.exe
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.deps.json
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.json
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\Zheni\Desktop\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.exe
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.deps.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.runtimeconfig.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.dll
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.pdb
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.dll
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.pdb
+C:\Users\Zheni\Desktop\GenericsExercise\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.genruntimeconfig.cache

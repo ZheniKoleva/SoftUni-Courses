@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.exe
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.deps.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.runtimeconfig.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.genruntimeconfig.cache

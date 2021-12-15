@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.genruntimeconfig.cache

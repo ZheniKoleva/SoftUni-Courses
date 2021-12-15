@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.exe
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.deps.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\bin\Debug\netcoreapp3.1\08.Ranking3.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\bin\Debug\netcoreapp3.1\08.Ranking3.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\bin\Debug\netcoreapp3.1\08.Ranking3.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\bin\Debug\netcoreapp3.1\08.Ranking3.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\bin\Debug\netcoreapp3.1\08.Ranking3.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\bin\Debug\netcoreapp3.1\08.Ranking3.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\obj\Debug\netcoreapp3.1\08.Ranking3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\obj\Debug\netcoreapp3.1\08.Ranking3.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\obj\Debug\netcoreapp3.1\08.Ranking3.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\obj\Debug\netcoreapp3.1\08.Ranking3.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\obj\Debug\netcoreapp3.1\08.Ranking3.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\obj\Debug\netcoreapp3.1\08.Ranking3.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\08.Ranking3\obj\Debug\netcoreapp3.1\08.Ranking3.genruntimeconfig.cache

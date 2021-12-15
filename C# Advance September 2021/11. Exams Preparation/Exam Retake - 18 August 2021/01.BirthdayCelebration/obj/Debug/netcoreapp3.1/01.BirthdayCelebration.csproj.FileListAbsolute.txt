@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.exe
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.deps.json
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.runtimeconfig.json
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.dll
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.pdb
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.dll
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.pdb
+C:\Users\Zheni\Desktop\Exam Retake - 18 August 2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.genruntimeconfig.cache

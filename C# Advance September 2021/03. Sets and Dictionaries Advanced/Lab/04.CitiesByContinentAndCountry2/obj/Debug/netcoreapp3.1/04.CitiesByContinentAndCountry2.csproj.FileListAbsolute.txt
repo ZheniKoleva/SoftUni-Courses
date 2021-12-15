@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\bin\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\04.CitiesByContinentAndCountry2\obj\Debug\netcoreapp3.1\04.CitiesByContinentAndCountry2.genruntimeconfig.cache

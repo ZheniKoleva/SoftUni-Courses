@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\10.RadioactiveMutantVampireBunnies2\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies2.genruntimeconfig.cache

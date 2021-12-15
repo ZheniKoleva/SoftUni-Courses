@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\03. Openning_ Skeleton\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\Zheni\Desktop\06. Exercises-SoftUniParking-Skeleton\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

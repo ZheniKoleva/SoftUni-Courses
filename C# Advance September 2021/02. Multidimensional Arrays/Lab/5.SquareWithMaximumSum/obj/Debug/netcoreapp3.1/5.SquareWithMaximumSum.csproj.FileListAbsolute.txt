@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\5.SquareWithMaximumSum.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysLab\5.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\5.SquareWithMaximumSum.genruntimeconfig.cache

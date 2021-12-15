@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.exe
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.deps.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+C:\Users\Zheni\Desktop\StacksAndQueuesExercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.genruntimeconfig.cache

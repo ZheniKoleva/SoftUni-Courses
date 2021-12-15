@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedExercise\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.genruntimeconfig.cache

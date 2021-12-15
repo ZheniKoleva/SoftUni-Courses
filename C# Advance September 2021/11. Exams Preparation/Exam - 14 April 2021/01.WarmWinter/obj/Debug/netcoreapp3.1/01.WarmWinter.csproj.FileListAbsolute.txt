@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.exe
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.deps.json
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.json
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.dll
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.pdb
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.dll
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.pdb
+C:\Users\Zheni\Desktop\Exam - 14 April 2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.genruntimeconfig.cache

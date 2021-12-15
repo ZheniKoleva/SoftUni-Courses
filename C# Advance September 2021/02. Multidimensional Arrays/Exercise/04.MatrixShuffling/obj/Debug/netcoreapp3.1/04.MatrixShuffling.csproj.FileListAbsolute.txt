@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\bin\Debug\netcoreapp3.1\04.MatrixShuffling.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\04.MatrixShuffling\obj\Debug\netcoreapp3.1\04.MatrixShuffling.genruntimeconfig.cache

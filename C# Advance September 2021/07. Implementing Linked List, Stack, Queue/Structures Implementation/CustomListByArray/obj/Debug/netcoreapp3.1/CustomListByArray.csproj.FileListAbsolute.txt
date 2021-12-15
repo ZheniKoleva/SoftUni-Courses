@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\bin\Debug\netcoreapp3.1\CustomListByArray.exe
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\bin\Debug\netcoreapp3.1\CustomListByArray.deps.json
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\bin\Debug\netcoreapp3.1\CustomListByArray.runtimeconfig.json
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\bin\Debug\netcoreapp3.1\CustomListByArray.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\bin\Debug\netcoreapp3.1\CustomListByArray.dll
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\bin\Debug\netcoreapp3.1\CustomListByArray.pdb
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.dll
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.pdb
+C:\Users\Zheni\Desktop\Structures Implementation\CustomListByArray\obj\Debug\netcoreapp3.1\CustomListByArray.genruntimeconfig.cache

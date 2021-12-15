@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GenericSwapMethod/1.0.0": {
+        "runtime": {
+          "GenericSwapMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericSwapMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

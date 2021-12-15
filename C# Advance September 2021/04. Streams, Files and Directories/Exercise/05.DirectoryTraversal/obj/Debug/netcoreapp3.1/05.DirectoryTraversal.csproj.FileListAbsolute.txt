@@ -1,0 +1,28 @@
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.exe
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.deps.json
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.runtimeconfig.json
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.dll
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.pdb
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.dll
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.pdb
+C:\Users\Zheni\Desktop\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.genruntimeconfig.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.exe
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.deps.json
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.runtimeconfig.json
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.runtimeconfig.dev.json
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.dll
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.pdb
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.csproj.AssemblyReference.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.AssemblyInfoInputs.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.AssemblyInfo.cs
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.csproj.CoreCompileInputs.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.dll
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.pdb
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\04. Streams, Files and Directories\StreamsFilesAndDirectoriesExercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.genruntimeconfig.cache

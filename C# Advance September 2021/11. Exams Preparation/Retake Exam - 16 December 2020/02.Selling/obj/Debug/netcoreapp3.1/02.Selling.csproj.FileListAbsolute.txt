@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.exe
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.deps.json
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.json
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.dll
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.pdb
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.dll
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.pdb
+C:\Users\Zheni\Desktop\Retake Exam - 16 December 2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.genruntimeconfig.cache

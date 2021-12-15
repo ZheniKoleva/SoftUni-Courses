@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

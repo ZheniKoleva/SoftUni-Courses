@@ -1,0 +1,13 @@
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\bin\Debug\netcoreapp3.1\12.TriFunction2.exe
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\bin\Debug\netcoreapp3.1\12.TriFunction2.deps.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\bin\Debug\netcoreapp3.1\12.TriFunction2.runtimeconfig.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\bin\Debug\netcoreapp3.1\12.TriFunction2.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\bin\Debug\netcoreapp3.1\12.TriFunction2.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\bin\Debug\netcoreapp3.1\12.TriFunction2.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\obj\Debug\netcoreapp3.1\12.TriFunction2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\obj\Debug\netcoreapp3.1\12.TriFunction2.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\obj\Debug\netcoreapp3.1\12.TriFunction2.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\obj\Debug\netcoreapp3.1\12.TriFunction2.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\obj\Debug\netcoreapp3.1\12.TriFunction2.dll
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\obj\Debug\netcoreapp3.1\12.TriFunction2.pdb
+C:\Users\Zheni\Desktop\FunctionalProgrammingExercise\12.TriFunction2\obj\Debug\netcoreapp3.1\12.TriFunction2.genruntimeconfig.cache

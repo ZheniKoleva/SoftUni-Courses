@@ -1,0 +1,28 @@
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.exe
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.deps.json
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.runtimeconfig.json
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.dll
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.pdb
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.dll
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.pdb
+C:\Users\Zheni\Desktop\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.genruntimeconfig.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.exe
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.deps.json
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.runtimeconfig.json
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.runtimeconfig.dev.json
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.dll
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.pdb
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.csproj.AssemblyReference.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.AssemblyInfoInputs.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.AssemblyInfo.cs
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.csproj.CoreCompileInputs.cache
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.dll
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.pdb
+\\ASUS-PC\VisualStudio\C# Advance Official 14.09 - 16.12.2021\C# Advanced 14.09 - 23.10.2021\12. Advance Exam 23 October 2021\Advanced Exam - 23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.genruntimeconfig.cache

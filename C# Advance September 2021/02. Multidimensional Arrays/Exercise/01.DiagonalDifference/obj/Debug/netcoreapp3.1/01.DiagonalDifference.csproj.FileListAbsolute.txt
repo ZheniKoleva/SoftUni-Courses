@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.exe
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.deps.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\bin\Debug\netcoreapp3.1\01.DiagonalDifference.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.pdb
+C:\Users\Zheni\Desktop\MultidimensionalArraysExercise\01.DiagonalDifference\obj\Debug\netcoreapp3.1\01.DiagonalDifference.genruntimeconfig.cache

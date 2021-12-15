@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\bin\Debug\netcoreapp3.1\03.ProductShop2.exe
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\bin\Debug\netcoreapp3.1\03.ProductShop2.deps.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\bin\Debug\netcoreapp3.1\03.ProductShop2.runtimeconfig.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\bin\Debug\netcoreapp3.1\03.ProductShop2.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\bin\Debug\netcoreapp3.1\03.ProductShop2.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\bin\Debug\netcoreapp3.1\03.ProductShop2.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.dll
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.pdb
+C:\Users\Zheni\Desktop\SetsAndDictionariesAdvancedLab\03.ProductShop2\obj\Debug\netcoreapp3.1\03.ProductShop2.genruntimeconfig.cache

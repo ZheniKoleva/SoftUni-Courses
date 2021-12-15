@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.exe
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.deps.json
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.runtimeconfig.json
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.dll
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.pdb
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.dll
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.pdb
+C:\Users\Zheni\Desktop\Exam - 20 February 2021\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.genruntimeconfig.cache

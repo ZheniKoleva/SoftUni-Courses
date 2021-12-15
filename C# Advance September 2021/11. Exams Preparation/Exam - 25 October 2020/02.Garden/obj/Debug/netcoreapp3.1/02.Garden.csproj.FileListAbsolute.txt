@@ -1,0 +1,14 @@
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.exe
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.deps.json
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.json
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.dev.json
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.dll
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.pdb
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csproj.AssemblyReference.cache
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfoInputs.cache
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfo.cs
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csproj.CoreCompileInputs.cache
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.dll
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.pdb
+C:\Users\Zheni\Desktop\Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.genruntimeconfig.cache
