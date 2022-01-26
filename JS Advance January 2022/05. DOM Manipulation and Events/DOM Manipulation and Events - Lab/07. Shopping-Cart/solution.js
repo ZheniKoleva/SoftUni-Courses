@@ -14,7 +14,7 @@ function solve() {
          return;
       }
 
-      const parent = e.target.parentElement.parentElement;
+      const parent = e.target.parentElement.parentElement; //e.target.closest('div.product');
       const productName = parent.querySelector('.product-title').textContent;
       const productPrice = Number(parent.querySelector('.product-line-price').textContent);
 
