@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\02. Art Gallery.js"
+            "program": "${workspaceFolder}\\${file}"
         }
     ]
 }
