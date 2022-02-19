@@ -52,7 +52,7 @@ class LibraryCollection {
     }
 
     getStatistics(bookAuthor) {
-        let result = '""';
+        let result = '';
 
         if (bookAuthor) {
             const authorBook = this.books.find(x => x.bookAuthor == bookAuthor);
