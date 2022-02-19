@@ -1,0 +1,15 @@
+{
+  "name": "regular-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "03. Flower Shop/flowerShop.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.1"
+  }
+}
