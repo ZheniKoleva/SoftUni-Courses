@@ -10,7 +10,7 @@ async function createRecipe(e) {
     const userToken = sessionStorage.getItem('token');
 
     try {
-        ValidateRecipeData(recipeData); 
+        validateRecipeData(recipeData); 
 
         const recipe = {
             name: recipeData.name,
@@ -44,7 +44,7 @@ async function createRecipe(e) {
     }
 }
 
-function ValidateRecipeData(recipeData) {
+function validateRecipeData(recipeData) {
     if(Object.values(recipeData).some(x => !x)) {
         throw new Error('All the fields must be filled!');
     }

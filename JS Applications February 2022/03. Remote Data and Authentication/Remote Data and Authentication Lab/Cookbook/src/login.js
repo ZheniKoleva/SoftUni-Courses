@@ -10,7 +10,7 @@ async function logUser(e) {
     formElement.reset();
 
     try {
-        ValidateUserInputData(userData);
+        validateUserInputData(userData);
 
         const user = {
             email: userData.email,
@@ -41,7 +41,7 @@ async function logUser(e) {
     }
 }
 
-function ValidateUserInputData(userData) {
+function validateUserInputData(userData) {
 
     if (Object.values(userData).some(x => !x)) {
         throw new Error('Please, fill all the fields!');
