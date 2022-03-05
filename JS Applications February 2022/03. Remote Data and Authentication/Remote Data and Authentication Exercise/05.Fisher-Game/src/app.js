@@ -197,9 +197,19 @@ function createHTMLElement(tag, textContent, parent, className) {
 }
 
 function validateData(catchData) {
+    const regex = /^\d+$/;
+
     if (Object.values(catchData).some(x => !x)) {
         throw new Error('Please, fill all the fields!');
     } 
+
+    if (!regex.test(catchData.weight)) {
+        throw new Error('Weight should be a digit!');
+    }
+
+    if(!regex.test(catchData.captureTime)) {
+        throw new Error('Capture Time should be a digit!');
+    }
 }
 
 function validateResponse(response) {

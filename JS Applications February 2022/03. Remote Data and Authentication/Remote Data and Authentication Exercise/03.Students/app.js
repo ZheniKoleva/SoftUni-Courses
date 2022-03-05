@@ -85,7 +85,9 @@ function validateStudentInputData(studentData) {
     }
 
     if (!gradeRegex.test(studentData.grade)) {
-        throw new Error('Grade should be between 2 and 6');
+        throw new Error('Grade should be a digit between 2 and 6');
+    }else {
+        studentData.grade = Number(studentData.grade).toFixed(2);
     }
 }
 
