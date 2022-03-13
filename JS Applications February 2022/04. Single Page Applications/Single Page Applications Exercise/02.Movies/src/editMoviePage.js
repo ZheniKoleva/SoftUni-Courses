@@ -6,8 +6,6 @@ const section = document.querySelector('#edit-movie');
 const editForm = section.querySelector('form');
 editForm.addEventListener('submit', updateMovie);
 
-let movieId = '';
-
 export function showEditMovie(){
     showView(section);
 }
@@ -16,7 +14,9 @@ export async function editMovie(e) {
     e.preventDefault();
     showEditMovie();
 
-    movieId = e.target.dataset.movieId;
+    const movieId = e.target.dataset.movieId;
+    editForm.dataset.movieId = movieId;
+
     const movieToEdit = e.target.parentElement.parentElement;
     let title = movieToEdit.querySelector('h1').textContent;
     title = title.replace('Movie title: ', '');
@@ -31,6 +31,7 @@ export async function editMovie(e) {
 async function updateMovie(e) {
     e.preventDefault();
 
+    const movieId = editForm.dataset.movieId;
     const formData = new FormData(editForm);
     const newMovieData = Object.fromEntries(formData);
 

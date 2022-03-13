@@ -1,5 +1,5 @@
 import { toggleNavBar } from "./nav.js";
-import { showHome } from "./homePage.js";
+import { showLogin } from "./loginPage.js";
 import { hasSession } from "./common.js";
 
 export async function logout() {
@@ -20,7 +20,7 @@ export async function logout() {
             sessionStorage.clear();
             alert('Logout successffully!'); 
             toggleNavBar();
-            showHome();           
+            showLogin();           
         }
 
     } catch (error) {
