@@ -1,7 +1,7 @@
 import { render } from './../../node_modules/lit-html/lit-html.js';
 
-let navbarContainer = '';
-let mainContainer = '';
+let navbarContainer = undefined;
+let mainContainer = undefined;
 
 export function assignContainers(navbarElement, mainElement) {
     navbarContainer = navbarElement;

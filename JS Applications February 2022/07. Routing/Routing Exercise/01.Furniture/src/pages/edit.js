@@ -5,7 +5,6 @@ import { editTemplate } from './../templates/editTemplate.js';
 let formInfo = undefined;
 
 export async function editView(cntx) {
-    const furniture = await furnitureService.getById(cntx.params.id);    
     const binded = update.bind(null, cntx);
 
     const checker = {
@@ -17,14 +16,21 @@ export async function editView(cntx) {
         img: true,
     };
 
-    formInfo = {
-        furniture,
-        update: binded,
-        checker
-    };
+    try {
+        const furniture = await furnitureService.getById(cntx.params.id);
 
-    const template = editTemplate(formInfo);
-    cntx.renderView(template);
+        formInfo = {
+            furniture,
+            update: binded,
+            checker
+        };
+
+        const template = editTemplate(formInfo);
+        cntx.renderView(template);
+    } catch (error) {
+        alert(error.message);
+    }
+
 }
 
 async function update(cntx, e) {
@@ -33,23 +39,20 @@ async function update(cntx, e) {
     const form = e.target;
     const formData = new FormData(form);
     const furnitureData = Object.fromEntries(formData);
-    
+
     formInfo.checker = {};
     formInfo.furniture = furnitureData;
 
     try {
-        formInfo.checker.make = validations.validateMake(furnitureData.make);
-        formInfo.checker.model = validations.validateModel(furnitureData.model);
-        formInfo.checker.year = validations.validateYear(furnitureData.year);
-        formInfo.checker.description = validations.validateDescription(furnitureData.description);
-        formInfo.checker.price = validations.validatePrice(furnitureData.price);
-        formInfo.checker.img = validations.validateImage(furnitureData.img);
-        
+        validations.validateFurnitureData(formInfo.checker, furnitureData);
+        const template = editTemplate(formInfo);
+        cntx.renderView(template);
+
         if (Object.values(formInfo.checker).some(x => !x)) {
-            const template = editTemplate(formInfo);
-            return cntx.renderView(template);
+            alert('Please, fill the required fields!');
+            return;
         }
-                
+
         await furnitureService.updateFurniture(furnitureData, cntx.params.id);
         alert('Item updated successfully!');
         cntx.page.redirect(`/details/${cntx.params.id}`);

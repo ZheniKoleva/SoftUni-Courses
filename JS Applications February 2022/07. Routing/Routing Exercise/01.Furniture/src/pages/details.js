@@ -20,8 +20,8 @@ async function deleteFurniture(cntx, e) {
 
     if(confirmForm) {
         try {
-            const response = await furnitureService.deleteFurniture(cntx.params.id);
-            alert('Furniture deleted successfully!');
+            await furnitureService.deleteFurniture(cntx.params.id);
+            alert('Item deleted successfully!');
             cntx.page.redirect('/dashboard');
         } catch (error) {
             alert(error.message);

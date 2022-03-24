@@ -27,24 +27,21 @@ export async function createView(cntx) {
 async function create(cntx, e) {
     e.preventDefault();
 
-    formInfo.checker = {};
-
     const form = e.target;
     const formData = new FormData(form);
     const furnitureData = Object.fromEntries(formData);
 
+    formInfo.checker = {};
+
     try {
-        formInfo.checker.make = validations.validateMake(furnitureData.make);
-        formInfo.checker.model = validations.validateModel(furnitureData.model);
-        formInfo.checker.year = validations.validateYear(furnitureData.year);
-        formInfo.checker.description = validations.validateDescription(furnitureData.description);
-        formInfo.checker.price = validations.validatePrice(furnitureData.price);
-        formInfo.checker.img = validations.validateImage(furnitureData.img);       
+        validations.validateFurnitureData(formInfo.checker, furnitureData); 
+        const template = createTemplate(formInfo);
+        cntx.renderView(template);
 
         if (Object.values(formInfo.checker).some(x => !x)) {
-            const template = createTemplate(formInfo);
-            return cntx.renderView(template);
-        }
+            alert('Please, fill the required fields!');  
+            return;
+        }       
                 
         await furnitureService.createFurniture(furnitureData);
         alert('Item added to dashboard successfully!');
