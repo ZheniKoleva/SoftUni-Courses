@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<cars>
+  <car>
+    <make>BMW</make>
+    <model>1M Coupe</model>
+    <travelled-distance>39826890</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>E67</model>
+    <travelled-distance>476830509</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>E88</model>
+    <travelled-distance>27453411</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>F04</model>
+    <travelled-distance>418839575</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>F04</model>
+    <travelled-distance>443756363</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>F20</model>
+    <travelled-distance>401291910</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>F20</model>
+    <travelled-distance>487897422</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>F20</model>
+    <travelled-distance>284809463</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>F25</model>
+    <travelled-distance>476132712</travelled-distance>
+  </car>
+  <car>
+    <make>BMW</make>
+    <model>M Roadster E85</model>
+    <travelled-distance>475685374</travelled-distance>
+  </car>
+</cars>
