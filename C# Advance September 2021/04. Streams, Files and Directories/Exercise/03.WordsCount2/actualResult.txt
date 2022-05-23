@@ -1,3 +1,0 @@
-quick - 2
-is - 3
-fault - 1
