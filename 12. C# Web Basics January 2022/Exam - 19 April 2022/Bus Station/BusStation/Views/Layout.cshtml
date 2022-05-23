@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bus Station</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <nav>
+        <div class="navigation">   
+            {{if(IsAuthenticated)}}
+            {
+                 <ul>                                
+                    <li><a href="/Tickets/MyTickets" class="link-light">My Tickets</a></li>
+                    <li><a href="/Destinations/Add" class="link-light">Add Destination</a></li>
+                    <li><a href="/Destinations/All" class="link-light">Destinations</a></li>
+                    <li><a href="/Users/Logout" class="link-light">Logout</a></li>
+                </ul> 
+            }
+            {{else}}
+            {
+                <ul>                    
+                    <li><a href="/Users/Login" class="link-light">Login</a></li>
+                    <li><a href="/Users/Register" class="link-light">Register</a></li>                    
+                </ul> 
+            }
+        </div>
+    </nav>
+    <main>
+        <div id="page-container">
+            <div id="content-wrap">
+                {{RenderBody}}
+            </div>
+            <footer id="footer">
+                <div class="container-fluid text-center">
+                    <small class="footer-background text-white">
+                        CopyRight &copy; Bus Station 2022. All rights reserved.
+                    </small>
+                </div>
+            </footer>
+        </div>
+    </main>
+</body>
+</html>

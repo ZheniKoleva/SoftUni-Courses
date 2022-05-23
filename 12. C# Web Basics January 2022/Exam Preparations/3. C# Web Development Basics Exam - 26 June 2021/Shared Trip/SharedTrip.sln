@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedTrip", "SharedTrip\SharedTrip.csproj", "{97D8EA5A-EF5D-4D9B-82AC-4E6EEE2B223B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebServer.Server", "BasicWebServer.Server\BasicWebServer.Server.csproj", "{75485909-5FE4-4522-A6A1-FAE60D0BDFFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D8EA5A-EF5D-4D9B-82AC-4E6EEE2B223B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D8EA5A-EF5D-4D9B-82AC-4E6EEE2B223B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D8EA5A-EF5D-4D9B-82AC-4E6EEE2B223B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D8EA5A-EF5D-4D9B-82AC-4E6EEE2B223B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75485909-5FE4-4522-A6A1-FAE60D0BDFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75485909-5FE4-4522-A6A1-FAE60D0BDFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75485909-5FE4-4522-A6A1-FAE60D0BDFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75485909-5FE4-4522-A6A1-FAE60D0BDFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F11A979A-4EEF-490E-885B-21F19769E93C}
+	EndGlobalSection
+EndGlobal

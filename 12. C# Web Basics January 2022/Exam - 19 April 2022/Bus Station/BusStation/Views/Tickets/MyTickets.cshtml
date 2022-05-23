@@ -1,0 +1,18 @@
+﻿<main>
+    <h3>My Tickets</h3>
+    <section class="purchased-ticket">
+        {{foreach}}
+        {
+            <div class="purchased-left">
+                <img src={{DestinationImage}} alt="">
+            </div>
+            <div class="purchased-right">
+                <div>
+                    <h3>{{Destination}}</h3><span>{{DateAndTime}}</span>
+                </div>
+                <p>Ticket price: {{SingleTicket}} euros</p>
+            </div>
+        }
+       
+    </section>
+</main>

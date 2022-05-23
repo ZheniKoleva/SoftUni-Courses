@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMS", "SMS\SMS.csproj", "{DF586722-C25C-4BDB-849B-B055B75D0166}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWebServer.Server", "BasicWebServer.Server\BasicWebServer.Server.csproj", "{97D36483-F21B-4C68-A01D-275F222F9E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF586722-C25C-4BDB-849B-B055B75D0166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF586722-C25C-4BDB-849B-B055B75D0166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF586722-C25C-4BDB-849B-B055B75D0166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF586722-C25C-4BDB-849B-B055B75D0166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D36483-F21B-4C68-A01D-275F222F9E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D36483-F21B-4C68-A01D-275F222F9E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D36483-F21B-4C68-A01D-275F222F9E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D36483-F21B-4C68-A01D-275F222F9E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA9858C-A70C-4DAC-A4B5-9393A32A9B82}
+	EndGlobalSection
+EndGlobal

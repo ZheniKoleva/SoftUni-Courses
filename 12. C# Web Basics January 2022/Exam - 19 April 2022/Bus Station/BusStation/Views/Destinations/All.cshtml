@@ -1,0 +1,12 @@
+﻿<section class="added-travels">
+    {{foreach}}
+    {
+        <div class="added-travel">
+            <img src={{ImageUrl}} alt="" class="picture-added-travel">
+            <h3>From {{DestinationName}} to {{Origin}}</h3>
+            <span>Tickets #{{TicketsCount}} </span><span>{{Date}} {{Time}}</span>
+            <a href="/Tickets/Create?destinationId={{Id}}" class="addTickets">Add Tickets</a>
+            <a href="/Tickets/Reserve?destinationId={{Id}}" class="bookTrip">Book a Trip</a>
+        </div>
+    }
+</section>
