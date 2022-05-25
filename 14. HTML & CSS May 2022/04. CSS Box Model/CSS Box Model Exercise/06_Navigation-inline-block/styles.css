@@ -1,0 +1,43 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+    margin: 2.5rem 2rem;
+}
+
+/*------ Header style -----*/
+
+header {
+    border-bottom: 1.5px solid rgb(0,0,0);      
+}
+
+.header__h1, 
+.header__nav,
+.nav__ul,
+.nav__ul li {
+    display: inline-block;    
+}
+
+.header__h1 {
+    margin-right: 4rem;   
+}
+
+.nav__ul li {
+    list-style-type: none;    
+    margin: 1rem 1rem 0 1rem;      
+}
+
+.nav__ul li a {
+    text-decoration: none;
+    color: rgb(60,179,113);
+}
+
+/*------ Main style -----*/
+
+.main__h1 {
+    font-family: Times, sans-serif; 
+    font-weight: normal;
+}
+
+main p {
+    line-height: 1.2;
+}
