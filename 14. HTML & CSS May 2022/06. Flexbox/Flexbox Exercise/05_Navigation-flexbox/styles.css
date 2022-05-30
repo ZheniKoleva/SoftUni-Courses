@@ -1,0 +1,32 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 4rem 3rem;
+    width: 90%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 2px solid rgb(0,0,0);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
+
+.header__h1 {
+    text-transform: uppercase;    
+}
+
+.nav__ul {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.main__h1 {
+    font-family: Times, serif;
+    font-weight: normal;
+}
