@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;    
+    align-items: center;
+    max-width: 65vw;
+}
+
+span {
+    border: 1px solid black;
+}
+
+.week {
+    display: flex;
+    flex-wrap: wrap;   
+}
+
+.notes {
+    display: flex;
+    flex-direction: column; 
+}
+
+.week span {
+    height: 4rem;
+    padding-top: 1.2rem;
+}
+
+.week span:nth-child(1),
+.week span:nth-child(7) {
+    flex-basis: 100%;
+}
+
+.week span:nth-child(2),
+.week span:nth-child(3),
+.week span:nth-child(4),
+.week span:nth-child(5),
+.week span:nth-child(6) {
+    flex-basis: calc(20% - 2px);
+}
+
+.week span:nth-child(8),
+.week span:nth-child(9) {
+    flex-basis: calc(50% - 2px);
+}
+
+.notes span {
+    padding: 0.5rem;
+    height: 9.54rem;
+}
