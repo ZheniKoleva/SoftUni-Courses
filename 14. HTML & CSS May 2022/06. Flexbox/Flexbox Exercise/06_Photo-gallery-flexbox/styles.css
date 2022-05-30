@@ -1,0 +1,28 @@
+body {
+    display: flex; 
+    justify-content: center;  
+    background-color: lightgray;
+    margin: 4rem;   
+}
+
+.gallery ul,
+.gallery ul li {
+    display: flex;   
+}
+
+.gallery ul {
+    flex-wrap: wrap;
+    justify-content: space-between;    
+    gap: 3rem;
+    list-style-type: none;
+}
+
+.gallery ul li {
+    border: 0.5rem solid black;
+    padding: 2rem 1rem;
+    background-color: white;  
+}
+
+img {
+    align-self: center;
+}
