@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    margin: 0;
+}
+
+header, main, footer {   
+    flex-basis: 100%;
+    padding: 0 2rem;    
+}
+
+header {    
+    border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.header__h1 {
+    text-transform: uppercase;    
+}
+
+main {
+    display: flex;  
+    flex-direction: column;
+    align-content: space-between;
+}
+
+.main__h2 {
+    font-family: Georgia, serif;
+    font-weight: normal;
+}
+
+footer {
+    background-color: rgb(102, 102, 102);
+    color: rgb(255, 255, 255);
+    align-self: flex-end;
+}
