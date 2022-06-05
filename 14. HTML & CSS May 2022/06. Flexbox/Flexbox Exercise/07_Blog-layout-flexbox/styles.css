@@ -1,0 +1,103 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem; 
+    line-height: 1.5;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    margin: 4rem auto;
+    width: 80%;
+}
+
+/*----- .page style -----*/
+
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 4rem;
+}
+
+.page > header {
+    flex-basis: 100%; 
+    border-bottom: 2px solid rgb(0,0,0,0.5); 
+    padding-bottom: 0.5rem;
+}
+
+.page > main {
+    width: calc(70% - 2rem)
+}
+
+.page > aside {
+    width: calc(30% - 2rem);
+}
+
+/*----- common style -----*/
+
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+    font-weight: normal;
+}
+
+img {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 12px 2px rgba(0, 0 ,0 , 0.25);
+    border: 0.25rem solid rgb(0, 0, 0);
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 153, 0) ;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+/*----- header style -----*/
+
+.header__p {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 0;
+}
+
+/*----- main style -----*/
+
+.section__rightImage {
+    float: right;
+    margin-left: 1rem;
+}
+
+.section__leftImage {
+    float: left;
+    margin-right: 1rem;
+}
+
+.section__p,
+blockquote {
+    display: inline-block;    
+}
+
+.section__p {
+    width: calc(50% - 4rem);
+    border-right: 3px solid rgba(128, 128, 128, 0.5);
+    padding-right: 2rem;
+    margin-right: 0;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-style: italic;
+    width:calc(50% - 4rem);
+    vertical-align: top;
+    margin-left: 2rem;  
+}
+
+blockquote > p {
+    text-align: right;
+}
