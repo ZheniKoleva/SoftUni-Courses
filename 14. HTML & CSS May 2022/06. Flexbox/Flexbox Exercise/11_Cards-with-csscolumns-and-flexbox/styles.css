@@ -47,14 +47,14 @@ body {
     gap: 2rem;
 }
 
-.cards-layout.masonry {  
+.masonry {  
     max-height: 200vh;  
     flex-direction: column;         
     justify-content: flex-start;
     align-content: flex-start;    
 } 
 
-.cards-layout.flex {
+.flex {
     flex-direction: row;
     align-items: stretch;   
 } 
