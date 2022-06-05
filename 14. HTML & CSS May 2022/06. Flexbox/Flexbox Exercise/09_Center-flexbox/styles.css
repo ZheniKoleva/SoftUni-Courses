@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica, serif;
+    font-size: 1rem;
+    line-height: 1.5;
+
+    background-color: rgb(238, 238, 238);
+    display: flex;       
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 16px 4px rgba(0,0,0,0.65);
+    width: 22rem;
+    height: 7rem;
+    padding: 0.5rem 1rem;      
+}
+
+div > h2 {
+    font-family: Times, serif;
+    padding: 0;
+    margin: 0;
+}
+
+div > p {
+    margin-top: 0;
+}
