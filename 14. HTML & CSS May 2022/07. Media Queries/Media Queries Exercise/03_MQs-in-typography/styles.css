@@ -1,0 +1,132 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+  margin: 2rem auto;
+  width: 80%;
+}
+
+/*----- common style -----*/
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, serif;
+  font-size: 1em/1.2;
+  font-weight: normal;
+}
+
+img {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 12px 2px rgba(0, 0, 0, 0.25);
+  border: 0.25rem solid rgb(0, 0, 0);
+  padding: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/*----- header style -----*/
+.body__header {
+  border-bottom: 3px solid rgba(0, 0, 0, 0.5);
+}
+
+.header__p {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/*----- main style -----*/
+
+blockquote {
+  font-family: Georgia, serif;
+  font-style: italic;
+  border-left: 3px solid rgba(128, 128, 128, 0.5);
+  vertical-align: top;
+  margin-left: 2rem;
+  padding-left: 2rem;
+}
+
+blockquote > p {
+  text-align: right;
+}
+
+/*------ Responsive ------*/
+
+/*------ phone -----*/
+
+@media (min-width: 500px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 600px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/*------ tablet -----*/
+
+@media (min-width: 800px) {
+  html {
+    font-size: 18px;
+  }
+
+  img {
+    margin-bottom: 1rem;
+  }
+
+  .section__rightImage {
+    float: right;
+    margin-left: 1rem;
+  }
+
+  .section__leftImage {
+    float: left;
+    margin-right: 1rem;
+  }
+
+  .wrapper__div {
+    display: flex;
+  }
+
+  .wrapper__p {
+    flex-basis: calc(50% - 4rem);
+    margin-right: 2rem;
+    order: 0;
+  }
+
+  blockquote {
+    flex-basis: calc(50% - 4rem);
+    order: 1;
+  }
+}
+
+/*------ laptop -----*/
+
+@media (min-width: 1300px) {
+    html {
+        font-size: 21px;
+    }
+
+    body {
+        width: 90%;
+    }
+}
+
+/*------ desktop -----*/
+
+@media (min-width: 1800px) {
+    html {
+        font-size: 23px;
+    }   
+}
