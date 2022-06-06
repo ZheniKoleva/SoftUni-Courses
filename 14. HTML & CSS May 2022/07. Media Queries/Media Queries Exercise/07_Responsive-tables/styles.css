@@ -1,0 +1,97 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 23px;
+}
+
+body {
+  background-color: #eeeeee;
+  margin: 2rem;
+}
+
+table {
+  width: 100%;
+}
+
+table,
+tbody td,
+thead th {
+  border: 1px solid #cccccc;
+  border-collapse: collapse;
+  text-align: left;
+  padding: 0.5rem;
+}
+
+thead th {
+  background-color: #333333;
+  color: antiquewhite;
+}
+
+td {
+  color: black;
+}
+
+tr:nth-of-type(odd) {
+  background-color: #f1f1f1;
+}
+
+tr:nth-of-type(even) {
+  background-color: #ffffff;
+}
+
+/*------ laptop -----*/
+@media (max-width: 1800px) {
+  html {
+    font-size: 21px;
+  }
+}
+
+/*------ tablet -----*/
+@media (max-width: 1300px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/*------ phone -----*/
+@media (max-width: 800px) {
+  html {
+    font-size: 16px;
+  }
+
+  table * {
+    display: block;
+  }
+
+  th {
+    display: none;
+  }
+
+  td::before {
+    font-weight: bold;
+    padding-right: 1rem;
+  }
+
+  td:nth-child(1)::before {
+    content: "First Name";
+  }
+
+  td:nth-child(2)::before {
+    content: "Last Name";
+  }
+
+  td:nth-child(3)::before {
+    content: "Job Title";
+  }
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 500px) {
+  html {
+    font-size: 12px;
+  }
+}
