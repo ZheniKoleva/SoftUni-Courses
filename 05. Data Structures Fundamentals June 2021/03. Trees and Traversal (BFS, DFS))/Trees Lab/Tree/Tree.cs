@@ -177,7 +177,9 @@
                 int indxSecondNode = secondParent.children.IndexOf(secondNode); // дава индекса на вторият нод
 
                 firstParent.children[indxFirstNode] = secondNode; // на мястото на индекса на първи нод, слагаме втори
+                secondNode.Parent = firstParent;
                 secondParent.children[indxSecondNode] = firstNode;// на мястото на индекс на втори нод, слагаме първи 
+                firstNode.Parent = secondNode;
             }
         }
 
