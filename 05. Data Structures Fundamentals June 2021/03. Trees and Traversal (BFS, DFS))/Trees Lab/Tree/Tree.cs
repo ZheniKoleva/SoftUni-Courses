@@ -55,7 +55,6 @@
                 foreach (var child in subtree.children)
                 {
                     queue.Enqueue(child);
-
                 }
             }
 
@@ -91,11 +90,19 @@
         {
             Tree<T> searchedNode = this.FindBfs(parentKey);
 
-            //CheckEmptyNode(searchedNode);
+            CheckEmptyNode(searchedNode);
 
             searchedNode.children.Add(child);
         }
-       
+
+        private void CheckEmptyNode(Tree<T> searchedNode)
+        {
+            if (searchedNode == null)
+            {
+                throw new ArgumentNullException();
+            }
+        }
+
         private Tree<T> FindBfs(T parentKey)
         {
             Queue<Tree<T>> tree = new Queue<Tree<T>>();
@@ -124,26 +131,26 @@
         {
             Tree<T> searchedNode = this.FindBfs(nodeKey);
 
-            foreach (var child in searchedNode.children) 
+            foreach (var child in searchedNode.children) // за всяко дете на нода махаме нода като техен родител
             {
                 child.Parent = null;
             }
 
-            searchedNode.children.Clear(); 
+            searchedNode.children.Clear(); // изчистваме списъка с децата
 
             Tree<T> parentOfSearchedNode = searchedNode.Parent;
 
-            if (parentOfSearchedNode != null) /
+            if (parentOfSearchedNode != null) // гледаме дали даденият нод има родител
             {
-                searchedNode.Parent.children.Remove(searchedNode); 
+                searchedNode.Parent.children.Remove(searchedNode); // ако има родител, то махаме търсеният нод от списъка му с деца
             }
             else
             {
-                this.IsRootDeleted = true; 
+                this.IsRootDeleted = true; // ако няма, то сме изтрили корена
             }
 
-            searchedNode.Value = default(T); 
-                                             
+            searchedNode.Value = default(T); // накрая нулираме стойността на самият нод, след като
+                                             // сме махнали родителят му, него от децата на родителят и самите негови деца
 
         }
 
@@ -164,14 +171,14 @@
             }
             else
             {
-                Tree<T> firstParent = firstNode.Parent; 
-                Tree<T> secondParent = secondNode.Parent; 
+                Tree<T> firstParent = firstNode.Parent; // вземаме родителя на нод 1
+                Tree<T> secondParent = secondNode.Parent; // вземаме родителя на нод 2
 
-                int indxFirstNode = firstParent.children.IndexOf(firstNode);
-                int indxSecondNode = secondParent.children.IndexOf(secondNode); 
+                int indxFirstNode = firstParent.children.IndexOf(firstNode);// дава на кой индекс според родителя му се намира първият нод
+                int indxSecondNode = secondParent.children.IndexOf(secondNode); // дава индекса на вторият нод
 
-                firstParent.children[indxFirstNode] = secondNode; 
-                secondParent.children[indxSecondNode] = firstNode;
+                firstParent.children[indxFirstNode] = secondNode; // на мястото на индекса на първи нод, слагаме втори
+                secondParent.children[indxSecondNode] = firstNode;// на мястото на индекс на втори нод, слагаме първи 
             }
         }
 
