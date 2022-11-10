@@ -61,6 +61,7 @@
             return result;
         }
 
+
         public ICollection<T> OrderDfs()
         {
             List<T> result = new List<T>();
@@ -76,6 +77,7 @@
             return result;
         }
 
+
         private void Dfs(Tree<T> tree, List<T> result)
         {
             foreach (var child in tree.Children)
@@ -86,6 +88,7 @@
             result.Add(tree.Value);
         }
 
+
         public void AddChild(T parentKey, Tree<T> child)
         {
             Tree<T> searchedNode = this.FindBfs(parentKey);
@@ -93,15 +96,8 @@
             CheckEmptyNode(searchedNode);
 
             searchedNode.children.Add(child);
-        }
-
-        private void CheckEmptyNode(Tree<T> searchedNode)
-        {
-            if (searchedNode == null)
-            {
-                throw new ArgumentNullException();
-            }
-        }
+            child.Parent = searchedNode;
+        }       
 
         private Tree<T> FindBfs(T parentKey)
         {
@@ -124,12 +120,13 @@
                 }
             }
 
-            throw new ArgumentNullException();
+            return null;
         }
 
         public void RemoveNode(T nodeKey)
         {
             Tree<T> searchedNode = this.FindBfs(nodeKey);
+            CheckEmptyNode(searchedNode);
 
             foreach (var child in searchedNode.children) // за всяко дете на нода махаме нода като техен родител
             {
@@ -149,7 +146,7 @@
                 this.IsRootDeleted = true; // ако няма, то сме изтрили корена
             }
 
-            searchedNode.Value = default(T); // накрая нулираме стойността на самият нод, след като
+            searchedNode.Value = default; // накрая нулираме стойността на самият нод, след като
                                              // сме махнали родителят му, него от децата на родителят и самите негови деца
 
         }
@@ -157,7 +154,9 @@
         public void Swap(T firstKey, T secondKey)
         {
             Tree<T> firstNode = this.FindBfs(firstKey);
+            CheckEmptyNode(firstNode);
             Tree<T> secondNode = this.FindBfs(secondKey);
+            CheckEmptyNode(secondNode);
 
             if (IsRoot(firstNode))
             {
@@ -179,6 +178,14 @@
 
                 firstParent.children[indxFirstNode] = secondNode; // на мястото на индекса на първи нод, слагаме втори
                 secondParent.children[indxSecondNode] = firstNode;// на мястото на индекс на втори нод, слагаме първи 
+            }
+        }
+
+        private void CheckEmptyNode(Tree<T> searchedNode)
+        {
+            if (searchedNode == null)
+            {
+                throw new ArgumentNullException();
             }
         }
 
