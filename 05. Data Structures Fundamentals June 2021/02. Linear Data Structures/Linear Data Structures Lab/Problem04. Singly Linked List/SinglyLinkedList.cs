@@ -64,8 +64,13 @@
 
             Node<T> currentNode = this._head;
 
-            while (currentNode.Next != null)
+            if (this.Count == 1)
             {
+                return currentNode.Item;
+            }           
+
+            while (currentNode.Next != null) { 
+           
                 currentNode = currentNode.Next;
             }
 
@@ -76,7 +81,7 @@
         {
             EnsureNotEmpty();
 
-            Node<T> elementToRemove = this._head;
+            Node<T> oldHead = this._head;
 
             if (this.Count == 1)
             {
@@ -84,41 +89,47 @@
             }
             else
             {
-                this._head = elementToRemove.Next;
+                this._head = oldHead.Next;
             }
-
-            //elementToRemove.Next = null;
 
             this.Count--;
 
-            return elementToRemove.Item;
+            return oldHead.Item;
         }
 
         public T RemoveLast()
         {
             EnsureNotEmpty();
 
-            Node<T> currentNode = this._head;           
+            Node<T> currentNode = this._head;
+            T itemToRemove = default;
 
-            while (currentNode.Next != null)
+            if (this.Count == 1)
             {
-                currentNode = currentNode.Next;
+                itemToRemove = currentNode.Item;
+                this._head = null;
             }
+            else
+            {
+                while (currentNode.Next.Next != null)
+                {
+                    currentNode = currentNode.Next;
+                }
 
-            T elementToRemove = currentNode.Item;
-            currentNode = null;
+                itemToRemove = currentNode.Next.Item;
+                currentNode.Next = null;
+            }
 
             this.Count--;
 
-            return elementToRemove;
-
+            return itemToRemove;
         }
 
         public IEnumerator<T> GetEnumerator()
         {
             Node<T> currentNode = this._head;
 
-            while (currentNode.Next != null)
+            while (currentNode != null)
             {
                 yield return currentNode.Item;
 
@@ -128,7 +139,6 @@
 
         IEnumerator IEnumerable.GetEnumerator()
             => this.GetEnumerator();
-
        
         
         private void EnsureNotEmpty()

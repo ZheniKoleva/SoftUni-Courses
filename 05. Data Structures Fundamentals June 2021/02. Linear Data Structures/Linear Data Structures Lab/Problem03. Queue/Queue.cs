@@ -5,8 +5,8 @@
     using System.Collections.Generic;
 
     public class Queue<T> : IAbstractQueue<T>
-    {
-        private Node<T> _head;        
+    {        
+        private Node<T> head;        
 
         public int Count { get; private set; }
 
@@ -14,9 +14,9 @@
         {
             this.EnsureNotEmpty();
 
-            Node<T> current = this._head;
+            Node<T> current = this.head;            
 
-            while (current.Next != null)
+            while (current != null)
             {
                 if (current.Item.Equals(item))
                 {
@@ -33,33 +33,33 @@
         {
             this.EnsureNotEmpty();
 
-            T firstNodeItem = this._head.Item;
+            Node<T> oldHead = this.head;
 
             if (this.Count == 1)
             {
-                this._head = null;
+                this.head = null;
             }
             else
-            {
-                this._head = this._head.Next;                
+            {               
+                this.head = oldHead.Next;
             }           
 
             this.Count--;          
 
-            return firstNodeItem;
+            return oldHead.Item;
         }
 
         public void Enqueue(T item)
         {
             Node<T> newNode = new Node<T>(item);
 
-            if (this._head == null)
+            if (this.head == null)
             {                
-                this._head = newNode;
+                this.head = newNode;                
             }
             else
             {
-                Node<T> current = this._head;
+                Node<T> current = this.head;
 
                 while (current.Next != null)
                 {
@@ -76,12 +76,12 @@
         {
             this.EnsureNotEmpty();
 
-            return this._head.Item;
+            return this.head.Item;
         }        
 
         public IEnumerator<T> GetEnumerator()
         {
-            Node<T> current = this._head;
+            Node<T> current = this.head;
 
             while (current != null)
             {
@@ -95,7 +95,7 @@
 
         private void EnsureNotEmpty()
         {
-            if (this.Count == 0)
+            if (this.head == null)
             {
                 throw new InvalidOperationException();
             }
