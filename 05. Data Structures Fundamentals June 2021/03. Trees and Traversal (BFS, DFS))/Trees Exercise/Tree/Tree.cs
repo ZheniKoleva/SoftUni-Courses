@@ -12,7 +12,6 @@
         public Tree(T key, params Tree<T>[] children)
         {
             this.Key = key;
-
             this._children = new List<Tree<T>>();
 
             foreach (var item in children)
@@ -32,12 +31,12 @@
 
         public void AddChild(Tree<T> child)
         {
-            this._children.Add(child);
+            this._children.Add(child);           
         }
 
         public void AddParent(Tree<T> parent)
         {
-            this.Parent = parent;
+            this.Parent = parent;            
         }
 
         public string GetAsString()
@@ -63,6 +62,8 @@
             return result.ToString();
         }
 
+       
+        // Task 05 Deepest Node
         public Tree<T> GetDeepestLeftomostNode()
         {
             List<Tree<T>> leafNodes = this.GetLeafNodes();
@@ -90,7 +91,15 @@
                 }
             }
 
-            return deepest;           
+            return deepest;
+
+            //Tree<T> deepest = this.DFS();
+            //return deepest;
+
+            //int biggestDepth = 0;
+            //Tree<T> deepestNode = null;
+            //FindDeepestNode(this , 0, ref biggestDepth, ref deepestNode);
+            //return deepestNode;
         }
 
         private void FindDeepestNode(Tree<T> tree, int currentDepth, ref int biggestDepth, ref Tree<T> deepestNode)
@@ -122,9 +131,18 @@
             return null;
         }
 
+
+        //Task 03 Leaf Nodes
         public List<T> GetLeafKeys()
         {
-            List<Tree<T>> leafNodes = this.GetLeafNodes(); 
+            //List<T> leafNodes = new List<T>(); // DFS
+
+            //this.GetLeafKeysDFS(this, leafNodes);
+
+            //return leafNodes;
+
+            List<Tree<T>> leafNodes = this.GetLeafNodes(); // BFS
+
             return leafNodes.Select(x => x.Key).ToList();
         }
 
@@ -135,7 +153,7 @@
             Queue<Tree<T>> queue = new Queue<Tree<T>>();
             queue.Enqueue(this);
 
-            while (queue.Count != 0)
+            while (queue.Count > 0)
             {
                 Tree<T> currentNode = queue.Dequeue();
 
@@ -168,12 +186,19 @@
             }
         }
 
+
+        // Task 04 Middle Nodes
         public List<T> GetMiddleKeys()
-        {   
-            List<Tree<T>> leafNodes = this.GetMiddleNodes(); 
+        {
+            //List<T> middleNodes = new List<T>(); // DFS
+
+            //this.GetMiddleKeysDFS(this, middleNodes);
+
+            //return middleNodes;
+
+            List<Tree<T>> leafNodes = this.GetMiddleNodes(); // BFS
 
             return leafNodes.Select(x => x.Key).ToList();
-
         }
 
         private List<Tree<T>> GetMiddleNodes()
@@ -183,11 +208,11 @@
             Queue<Tree<T>> queue = new Queue<Tree<T>>();
             queue.Enqueue(this);
 
-            while (queue.Count != 0)
+            while (queue.Count > 0)
             {
                 Tree<T> currentNode = queue.Dequeue();
 
-                if (currentNode._children.Count != 0 && currentNode.Parent != null)
+                if (currentNode._children.Count > 0 && currentNode.Parent != null)
                 {
                     leafNodes.Add(currentNode);
                 }
@@ -205,16 +230,17 @@
         {
             foreach (var child in tree._children)
             {
-                if (child._children.Count != 0 && child.Parent != null)
+                if (child._children.Count > 0 && child.Parent != null)
                 {
                     middleNodes.Add(child.Key);
                 }
 
                 this.GetMiddleKeysDFS(child, middleNodes);
             }
-
         }
 
+
+        // Task 06 Longest Path
         public List<T> GetLongestPath()
         {
             Tree<T> deepestLeaf = GetDeepestLeftomostNode();
@@ -243,13 +269,21 @@
             return elements;            
         }
 
+
+        // Task 07 All Paths With a Given Sum
         public List<List<T>> PathsWithGivenSum(int sum)
         {
             List<Tree<T>> leafNodes = this.GetLeafNodes();
 
             List<List<T>> path = GetAllPath(leafNodes, sum);
 
-            return path;           
+            return path;
+
+            //List<List<T>> path = new List<List<T>>();
+            //int currentSum = 0;
+            //this.PathsWithSumDFS(this, ref currentSum, sum, path, new List<T>());
+
+            //return path;
         }
 
         private List<List<T>> GetAllPath(List<Tree<T>> leafNodes, int sum)
@@ -263,7 +297,7 @@
 
                 Tree<T> currentNode = item;
 
-                while (currentNode.Parent != null) 
+                while (currentNode.Parent != null) // вариант да не повтаряме двата реда след цикъла е ако го въртим до currentNode != null
                 {
                     currentPath.Add(currentNode.Key);
 
@@ -312,8 +346,13 @@
             return allPaths;
         }
 
+
+        // Task 08 All Subtrees With a Given Sum
         public List<Tree<T>> SubTreesWithGivenSum(int sum)
-        {          
+        {
+            //List<Tree<T>> result = FindSubTreeRoots(sum);
+
+            //return result;
 
             List<Tree<T>> roots = new List<Tree<T>>();
 
@@ -336,8 +375,7 @@
                 roots.Add(node);
             }
 
-            return currentSum;
-        
+            return currentSum;        
         }
 
         private List<Tree<T>> FindSubTreeRoots(int sum)
@@ -347,7 +385,7 @@
             Queue<Tree<T>> queue = new Queue<Tree<T>>();
             queue.Enqueue(this);
 
-            while (queue.Count != 0)
+            while (queue.Count > 0)
             {
                 Tree<T> currentNode = queue.Dequeue();
 
@@ -362,11 +400,9 @@
                 {
                     queue.Enqueue(item);
                 }
-
             }
 
-            return roots;
-            
+            return roots;            
         }
 
         private int GetSum(Tree<T> tree)
