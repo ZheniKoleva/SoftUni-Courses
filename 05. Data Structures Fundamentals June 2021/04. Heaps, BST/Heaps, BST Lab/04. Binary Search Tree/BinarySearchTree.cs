@@ -42,7 +42,7 @@
                 return true;
             }
 
-            if (tree.Value.CompareTo(element) > 0)
+            if (tree.Value.CompareTo(element) > 0) // родителя е по голям от елемента => наляво
             {
                 return ContainsBST(element, tree.LeftChild);
             }
@@ -56,41 +56,28 @@
         {
             if (!Contains(element))
             {
-                InsertBST(element, this.Root);
+                this.Root = InsertBST(element, this.Root);
             }
             
         }
 
-        private void InsertBST(T element, Node<T> root)
+        private Node<T> InsertBST(T element, Node<T> root)
         {
             if (root == null) // няма такъв нод
             {
                 root = new Node<T>(element, null, null);
-                Root = root;
-                return;
-            }            
-            
-            if (root.Value.CompareTo(element) > 0)
-            {
-                if (root.LeftChild == null)
-                {
-                    root.LeftChild = new Node<T>(element, null, null);
-                    return;
-                }
-                
-                InsertBST(element, root.LeftChild);
+                Root = root;                
+            }
+            else if (root.Value.CompareTo(element) > 0) // отиди наляво
+            {  
+                root.LeftChild = InsertBST(element, root.LeftChild);
             }
             else
             {
-                if (root.RightChild == null)
-                {
-                    root.RightChild = new Node<T>(element, null, null);
-                    return;
-                }
-
-                InsertBST(element, root.RightChild);
+                root.RightChild = InsertBST(element, root.RightChild);
             }
 
+            return root;
         }
 
         public IAbstractBinarySearchTree<T> Search(T element)
