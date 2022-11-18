@@ -14,7 +14,7 @@
         {
             this.Value = value;
             this.LeftChild = leftChild;
-            if (this.LeftChild != null) 
+            if (this.LeftChild != null) // ако лявото дете на този нод е различно от нула, то нода е негов родител
             {
                 this.LeftChild.Parent = this;
             }
@@ -36,17 +36,20 @@
 
         public T FindLowestCommonAncestor(T first, T second)
         {
-            BinaryTree<T> firstTree = SearchTree(first); 
-            BinaryTree<T> secondTree = SearchTree(second);            
+            BinaryTree<T> firstTree = this.SearchTree(first); // намираме къде са двата нода, на който търсим общите прадеди
+            BinaryTree<T> secondTree = this.SearchTree(second);   
             
-            List<T> firstAncestors = GetAncestors(firstTree); 
-            List<T> secondAncestors = GetAncestors(secondTree);      
-           
+            if (firstTree == null || secondTree == null)
+            {
+                throw new InvalidOperationException();
+            }
+            
+            List<T> firstAncestors = this.GetAncestors(firstTree); // вземаме родителите от нода до корена
+            List<T> secondAncestors = this.GetAncestors(secondTree); 
 
             List<T> ancestors = firstAncestors.Intersect(secondAncestors).ToList();
 
-            return ancestors[0];
-            
+            return ancestors.First();            
         }
 
         private BinaryTree<T> SearchTree(T element)

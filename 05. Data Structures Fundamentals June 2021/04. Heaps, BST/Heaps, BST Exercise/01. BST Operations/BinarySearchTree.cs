@@ -23,7 +23,7 @@
         {
             if (node != null)
             {
-                this.Insert(node.Value); 
+                this.Insert(node.Value); // InOrder - ляво дете , корена, после дясно дете.
                 this.CopyNode(node.LeftChild);
                 this.CopyNode(node.RightChild);
             }
@@ -40,7 +40,10 @@
 
         public bool Contains(T element)
         {
-            return ContainsBST(element, this.Root);           
+            return ContainsBST(element, this.Root);
+
+            // Node<T> currNode = this.Root;
+            // вкарваме алгоритъма от ContainsBST
         }
 
         private bool ContainsBST(T element, Node<T> currNode)
@@ -57,11 +60,11 @@
                 }
                 else
                 {
-                    return true; 
+                    return true; //намерили сме нод който е равен на търсеният елемент
                 }
             }
 
-            return false; 
+            return false; //връща дали текущият нод е различен от 0
         }
 
 
@@ -72,6 +75,43 @@
                 InsertBST(element, this.Root);
                 this.Count++;
             }
+
+            //Node<T> newNode = new Node<T>(element, null, null);
+
+            //if (this.Count == 0)
+            //{
+            //    this.Root = newNode;
+            //    this.Count++;
+            //    return;
+            //}
+
+            //Node<T> node = this.Root;
+
+            //while (node != null)
+            //{
+            //    if (IsGreater(node.Value, element))
+            //    {
+            //        if (node.RightChild == null)
+            //        {
+            //            node.RightChild = newNode;                        
+            //        }
+
+            //        node = node.RightChild;
+            //    }
+            //    else if (IsSmaller(node.Value, element))
+            //    {
+            //        if (node.LeftChild == null)
+            //        {
+            //            node.LeftChild = newNode;
+            //        }
+
+            //        node = node.LeftChild;
+            //    }
+            //    else
+            //    {
+            //        break;
+            //    }
+            //}
         }
 
         private void InsertBST(T element, Node<T> currNode)
@@ -79,7 +119,7 @@
             if (currNode == null)
             {
                 currNode = new Node<T>(element, null, null);
-                Root = currNode;
+                this.Root = currNode;
                 return;
             }
 
@@ -129,7 +169,7 @@
                 }
             }
 
-            return null; 
+            return null; // currNode == null ? null : new BinarySearchTree<T>(currNode);
         }
 
 
@@ -147,10 +187,9 @@
 
             EachInOrder(action, currNode.LeftChild);
 
-            action.Invoke(currNode.Value); 
+            action.Invoke(currNode.Value); // Може и action(currNode.Value)
 
             EachInOrder(action, currNode.RightChild);
-
         }
 
 
@@ -167,20 +206,23 @@
             if (currNode == null)
             { 
                 return;
-            } 
+            }
 
-            if (currNode.Value.CompareTo(lower) > 0) 
+            bool isNodeBiggerThanLowerRange = currNode.Value.CompareTo(lower) > 0;
+            bool isNodeSmallerТhanUpperRange = currNode.Value.CompareTo(upper) < 0;
+            bool isNodeInRange = currNode.Value.CompareTo(lower) >= 0 && currNode.Value.CompareTo(upper) <= 0;
+
+            if (isNodeBiggerThanLowerRange) // нода е по-голям от мин => 12 > 5 
             {
                 FindElementsInRange(currNode.LeftChild, lower, upper, result);
             }
 
-            if (currNode.Value.CompareTo(lower) >= 0
-               && currNode.Value.CompareTo(upper) <= 0)   
+            if (isNodeInRange)   // ако нода е вътре в рейнджа => нод = 12, Lower  = 5 upper = 21
             {
                 result.Add(currNode.Value);
             }
 
-            if (currNode.Value.CompareTo(upper) < 0) 
+            if (isNodeSmallerТhanUpperRange) // нода е по-малък от макс => 12 < 21
             {
                 FindElementsInRange(currNode.RightChild, lower, upper, result);
             }
@@ -189,17 +231,35 @@
 
         public void DeleteMin()
         {
-            if (this.Count == 0)
-            {
-                throw new InvalidOperationException();
-            }
+            IsTreeEmpty();
 
-            this.Root.LeftChild = this.DeleteMinElement(this.Root.LeftChild);
-           
+            this.Root = this.DeleteMinElement(this.Root);
+
+            //итеративно решение
+
+            //Node<T> current = Root;
+            //Node<T> previous = null;
+
+            //if (Root.LeftChild == null)
+            //{
+            //    Root = Root.RightChild;
+            //}
+            //else
+            //{
+            //    while (current.LeftChild != null)
+            //    {
+            //        current.Count--;
+
+            //        previous = current;
+            //        current = current.LeftChild;
+            //    }
+
+            //    previous.LeftChild = current.RightChild;
+            //}
         }
 
         private Node<T> DeleteMinElement(Node<T> currNode)
-        {            
+        {  
             if (currNode.LeftChild == null)
             {
                 Count--;
@@ -211,19 +271,16 @@
             return currNode;
         }
 
+
         public void DeleteMax()
         {
-            if (this.Count == 0)
-            {
-                throw new InvalidOperationException();
-            }
+            IsTreeEmpty();
 
-            this.Root.RightChild = this.DeleteMaxElement(this.Root.RightChild);
+            this.Root = this.DeleteMaxElement(this.Root);
         }
 
         private Node<T> DeleteMaxElement(Node<T> currNode)
-        {
-            
+        {            
             if (currNode.RightChild == null)
             {
                 Count--;
@@ -237,7 +294,7 @@
 
         public int GetRank(T element)
         {  
-            if (Count == 0)
+            if (this.Count == 0)
             {
                 return 0;
             }
@@ -245,25 +302,31 @@
             return GetRankBST(element, this.Root);
         }
 
-        private int GetRankBST(T element, Node<T> currNode) 
+        private int GetRankBST(T element, Node<T> currNode) // да върнем бр елементи по-малки от някакво число
         {
             if (currNode == null)
             {
                 return 0;
             }
 
-            if (currNode.Value.CompareTo(element) > 0) 
+            if (currNode.Value.CompareTo(element) > 0) // числото е по малко от нода
             {               
                 return GetRankBST(element, currNode.LeftChild);                
             }
-
-            if (currNode.Value.CompareTo(element) < 0)
+            else if (currNode.Value.CompareTo(element) < 0)
             {                
                 return 1 + GetRankBST(element, currNode.LeftChild) + GetRankBST(element, currNode.RightChild);
             }
 
             return 1; // ако е числото == нода 
+        }
 
+        private void IsTreeEmpty()
+        {
+            if (this.Root == null)
+            {
+                throw new InvalidOperationException();
+            }
         }
 
         private bool IsGreater(T value, T element)

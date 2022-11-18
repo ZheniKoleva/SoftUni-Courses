@@ -19,11 +19,10 @@
         {
             this.IsEmpty();      
 
-            T minElement = this.heap[0]; 
-            this.heap[0] = this.heap[this.heap.Count - 1]; 
-            //Swap(0, this.heap.Count - 1); 
-            this.heap.RemoveAt(this.heap.Count - 1); 
-            HeapifyDown(0); 
+            T minElement = this.heap[0]; // вземаме мин елемент            
+            Swap(0, this.heap.Count - 1); // разменяме най-малкият с май-големият елемент
+            this.heap.RemoveAt(this.heap.Count - 1); // изтриваме последният
+            this.HeapifyDown(0); // намираме правилното място на бившият последен елемент
 
             return minElement;
         }       
@@ -31,17 +30,17 @@
         public void Add(T element)
         {
             this.heap.Add(element);
-            Heapify(this.heap.Count - 1);
+            this.HeapifyUp(this.heap.Count - 1);
         }
 
         public T Peek()
         {
-            IsEmpty();
+            this.IsEmpty();
            
             return this.heap[0];
         }
 
-        private void Heapify(int indx) 
+        private void HeapifyUp(int indx) 
         {
             if (indx == 0)
             {
@@ -50,19 +49,25 @@
             
             int indxParent = (indx - 1) / 2;
 
-            if (IsSmaller(indx, indxParent))            
+            if (this.IsSmaller(indx, indxParent)) // ако елемента, който сме вкарали последен e по-малък от родителя, трябва да го преместим             
             {
-                Swap(indxParent, indx);
-                Heapify(indxParent);
+                this.Swap(indxParent, indx);
+                this.HeapifyUp(indxParent);
             }
-            
+
+            //while (IsSmaller(indx, indxParent))
+            //{
+            //    Swap(indx, indxParent);
+            //    indx = indxParent;
+            //    indxParent = (indx - 1) / 2;
+            //}
         }        
 
-        private void Swap(int first, int second)
+        private void Swap(int first, int second)   //   0  5
         {
-            T temp = this.heap[first];   
-            this.heap[first] = this.heap[second]; 
-            this.heap[second] = temp;  
+            T temp = this.heap[first];             // 5 
+            this.heap[first] = this.heap[second];  // 0 става 5
+            this.heap[second] = temp;              // 5 става 0
         } 
 
         private void HeapifyDown(int startIndx) 
@@ -75,22 +80,45 @@
                 return;
             }
 
-            int minIndx = leftIndx; ло
+            int minIndx = leftIndx; // тръгваме към индекса където е по-малкото число
 
-            if (rightIndx < this.heap.Count
-                && IsSmaller(rightIndx, leftIndx))               
+            if (rightIndx < this.heap.Count && this.IsSmaller(rightIndx, leftIndx))               
             {
                 minIndx = rightIndx;
             }
 
-            if (IsSmaller(minIndx, startIndx))
+            if (this.IsSmaller(minIndx, startIndx))
             {
-                Swap(startIndx, minIndx);
-                HeapifyDown(minIndx);
-            }          
+                this.Swap(startIndx, minIndx);
+                this.HeapifyDown(minIndx);
+            }
 
+
+            //int smallerChildIndx = (startIndx * 2) + 1;
+            //smallerChildIndx = FindSmallerChild(smallerChildIndx, smallerChildIndx + 1);
+
+            //while (smallerChildIndx != -1 && IsSmaller(smallerChildIndx, startIndx))
+            //{
+            //    Swap(smallerChildIndx, startIndx);
+            //    startIndx = smallerChildIndx;
+            //    smallerChildIndx = FindSmallerChild(startIndx * 2 + 1, startIndx * 2 + 2);
+            //}
         }
-      
+
+        private int FindSmallerChild(int leftChildIndx, int rightChildIndx)
+        {
+            if (leftChildIndx >= this.Size)
+            {
+                return -1;
+            }
+
+            if (rightChildIndx >= this.Size)
+            {
+                return leftChildIndx;
+            }
+
+            return IsSmaller(leftChildIndx, rightChildIndx) ? leftChildIndx : rightChildIndx;
+        }
 
         private void IsEmpty()
         {

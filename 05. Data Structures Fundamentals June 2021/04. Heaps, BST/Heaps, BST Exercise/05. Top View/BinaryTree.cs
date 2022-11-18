@@ -30,12 +30,13 @@
 
         private void GetTopView(BinaryTree<T> tree, List<T> result)
         {
-	     if (tree == null)
+            if (tree == null)
             {
                 return;
             }
 
             BinaryTree<T> root = tree;
+
             result.Add(root.Value);
 
             BinaryTree<T> currNode = root.LeftChild;
@@ -52,8 +53,7 @@
             {
                 result.Add(currNode.Value);
                 currNode = currNode.RightChild;
-            }           
-
+            }
         }
     }
 }
