@@ -1,0 +1,81 @@
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+html {   
+    font-family: Arial, serif;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+body {    
+    box-sizing: border-box;
+    margin: 4rem;
+}
+
+fieldset {
+    background-color: #f8f8f8;
+    border: 2px solid #5b5b5b;
+    border-radius: 0.3rem;
+    padding: 2rem 1rem;
+    max-width: 30vw;
+    max-height: 20vh;
+    position: relative;   
+}
+
+legend {
+    width: 30%;
+    height: 15%;   
+    font-size: inherit;  
+    font-weight: normal;    
+    border: 2px solid #5b5b5b;
+    border-radius: 0.2rem;
+    background-color: #f8f8f8;
+    position: absolute;
+    top: -8%;
+    left: -0.4%;
+    text-align: left;
+    padding-left: 0.5rem;
+}
+
+p {
+    width: 100%; 
+    padding-bottom: 1.2rem;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-around; */
+
+    position: relative;
+}
+
+label {
+    font-size: inherit;
+}
+
+input {
+    width: 70%;
+    min-height: 2.5em;  
+    border: 1px solid #5b5b5b;
+    border-radius: 0.3rem;  
+}
+
+i {
+    font-size: 0.8em;
+    position: absolute;
+    left: 28%;
+    top: 12%;
+}
+
+button {
+    min-height: 2em;   
+    width: 18%;
+    background-color: #2d2d2d;
+    border-radius: 0.3rem; 
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 0.8em;
+}
