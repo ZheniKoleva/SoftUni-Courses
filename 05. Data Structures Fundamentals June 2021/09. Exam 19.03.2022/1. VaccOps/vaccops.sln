@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vaccops", "vaccops.csproj", "{1943DD26-7DBA-4936-92D6-95CF57791F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1943DD26-7DBA-4936-92D6-95CF57791F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1943DD26-7DBA-4936-92D6-95CF57791F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1943DD26-7DBA-4936-92D6-95CF57791F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1943DD26-7DBA-4936-92D6-95CF57791F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16C235C2-1FB2-4AFD-B9B4-B32AB82394EC}
+	EndGlobalSection
+EndGlobal
